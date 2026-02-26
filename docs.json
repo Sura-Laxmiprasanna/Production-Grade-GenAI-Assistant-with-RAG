@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "title": "Reset Password",
+    "content": "Users can reset their password via Settings > Security. They will receive a confirmation email."
+  },
+  {
+    "id": "2",
+    "title": "Refund Policy",
+    "content": "Customers can request a full refund within 30 days of purchase if the item is unused."
+  },
+  {
+    "id": "3",
+    "title": "Account Deletion",
+    "content": "Users can delete their account from Settings > Account > Delete Account. This action is irreversible."
+  },
+  {
+    "id": "4",
+    "title": "Two-Factor Authentication",
+    "content": "Enable two-factor authentication in Settings > Security to improve account safety."
+  },
+  {
+    "id": "5",
+    "title": "Contact Support",
+    "content": "For technical issues, users can contact support via support@example.com or by calling 1800-123-456."
+  }
+]
